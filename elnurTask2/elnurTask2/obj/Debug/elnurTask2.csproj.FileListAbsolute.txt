@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\bin\Debug\elnurTask2.exe.config
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\bin\Debug\elnurTask2.exe
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\bin\Debug\elnurTask2.pdb
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\obj\Debug\elnurTask2.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\obj\Debug\elnurTask2.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\obj\Debug\elnurTask2.exe
+C:\Users\delya\source\repos\elnurTask2\elnurTask2\obj\Debug\elnurTask2.pdb

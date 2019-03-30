@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\gun\gun\bin\Debug\gun.exe.config
+C:\Users\delya\source\repos\gun\gun\bin\Debug\gun.exe
+C:\Users\delya\source\repos\gun\gun\bin\Debug\gun.pdb
+C:\Users\delya\source\repos\gun\gun\obj\Debug\gun.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\gun\gun\obj\Debug\gun.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\gun\gun\obj\Debug\gun.exe
+C:\Users\delya\source\repos\gun\gun\obj\Debug\gun.pdb
